@@ -33,7 +33,7 @@
 <p align="left">
 
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-administrator-associate-600x600.png" alt="alt text" width="80" height="80">
- <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-architect-expert-600x600.PNG" alt="alt text" width="80" height="80">
+ <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-architect-expert-600x600.PNG" alt="alt text" width="84" height="84">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_Microsoft_MCP.JPG" alt="alt text" width="120" height="80">
 
 
