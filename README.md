@@ -33,4 +33,4 @@
 <a href="mailto:oliver.kreis@gmx.net" target="_blank"><img align="center" src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/gmail.svg" alt="Email" height="50" width="50" /></a>
 </p><br>
 
-**	:house: Thanks for visiting**
+**:house: Thanks for visiting**
