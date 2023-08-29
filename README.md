@@ -29,6 +29,12 @@
 </p>
 <br>
 
+**:mortar_board: Badges/ Certifications:**
+<p align="left">
+
+
+
+</p><br>
 
 **📫 How to Reach me:**
 <p align="left">
