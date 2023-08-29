@@ -17,7 +17,13 @@
 <p align="left">
 <a>
   Having a lot of experience in Hybrid Cloud environments including onpremise datacenters and cloud transformations 
-</a>
+  
+  -  Architecture and introduction of a Microsoft Azure cloud infrastructure and corresponding interface systems
+  -  Implementation of a tailor-made cloud strategy leveraging with service providers, external partners and customers
+  -  Integration of SaaS, FaaS, IaaS components with a cloud native approch into organisations
+  -  Keynote speaker at Cloud Native Conference 2023 <a href="https://www.cloudnativeconference.de/">Cloud Native Conference</a>
+
+ </a>
 </p>
 <br>
 
