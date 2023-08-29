@@ -24,10 +24,11 @@
 
 
 
+
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/oliver-kreis-b58426277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:oliver.kreis@gmx.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/oliver-kreis-b58426277/" target="blank"><img align="center" src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/linkedin.svg" alt="BEPb" height="50" width="50" /></a>
+<a href="mailto:oliver.kreis@gmx.net" target="blank"><img align="center" src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/email.svg" alt="Gmail" height="50" width="50" /></a>
 </p>
 
 #### Thanks for visiting :heart:
