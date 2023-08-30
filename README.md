@@ -38,12 +38,23 @@
 
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_VMware_VCP-DVC.png" alt="alt text" width="84" height="84">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_VMware_VCA-DVC.png" alt="alt text" width="84" height="84">
+
+<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/ITIL_Expert.png" alt="alt text" width="100" height="100">
+<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/ITIL_Foundation.png" alt="alt text" width="100" height="100">
+<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/ITIL_Intermediate.png" alt="alt text" width="100" height="100">
+<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/microsoft-certified-professional.jpg" alt="alt text" width="150" height="90">
+ <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_Microsoft_MCSA.JPG" alt="alt text" width="120" height="84">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_SCRUM-PSM.png" alt="alt text" width="84" height="84">
 <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/psp1.png" alt="alt text" width="56" height="84">
 
 
- <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_Microsoft_MCSA.JPG" alt="alt text" width="120" height="84">
-<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_Microsoft_MCP.JPG" alt="alt text" width="120" height="80">
+
+
+
+
+
+
+
 
 </p><br>
 
