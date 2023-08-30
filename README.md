@@ -32,14 +32,14 @@
 **:mortar_board: Badges/ Certifications:**
 <p align="left">
 
- <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-administrator-associate-600x600.png" alt="alt text" width="80" height="80">
+ <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-administrator-associate-600x600.png" alt="alt text" width="100" height="104">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-architect-expert-600x600.PNG" alt="alt text" width="100" height="104">
   <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-architect-expert-600x600.PNG" alt="alt text" width="100" height="104">
 
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_VMware_VCP-DVC.png" alt="alt text" width="84" height="84">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_VMware_VCA-DVC.png" alt="alt text" width="84" height="84">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_SCRUM-PSM.png" alt="alt text" width="84" height="84">
-<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/psp1.png" alt="alt text" width="80" height="84">
+<img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/psp1.png" alt="alt text" width="56" height="84">
 
 
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/Zertifikat_Logo_Microsoft_MCSA.JPG" alt="alt text" width="120" height="84">
