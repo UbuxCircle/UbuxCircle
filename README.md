@@ -66,7 +66,8 @@
 
 **:runner: Sports enthusiast:**
 <p align="left">
-  Running the Mainova Frankfurt Marathon 2023 at 29th of october
+  Challenge Roth Marathon Relay 2023<br>
+  Mainova Frankfurt Marathon 2023
  </p><br>
  
 **:house: Thanks for visiting**
