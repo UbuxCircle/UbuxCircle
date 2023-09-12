@@ -32,6 +32,7 @@
 **:mortar_board: Badges/ Certifications:**
 <p align="left">
 
+ <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/aws.png" alt="alt text" width="100" height="104">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-administrator-associate-600x600.png" alt="alt text" width="100" height="104">
  <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-security-engineer-associate600x600.png" alt="alt text" width="100" height="104">
   <img src="https://github.com/UbuxCircle/UbuxCircle/blob/main/assets/azure-architect-expert-600x600.PNG" alt="alt text" width="100" height="104">
